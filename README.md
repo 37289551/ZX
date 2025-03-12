@@ -3,6 +3,8 @@
 ## 同步更新在线接口
 ```
 http://www.fish2018.ip-ddns.com/z/FongMi.json
+http://www2.fish2018.ip-ddns.com/z/FongMi.json
+http://www3.fish2018.ip-ddns.com/z/FongMi.json
 ```
 - 选择主页可以查看当前真心包版本  
 - 在线接口已经默认集成了tgsou的在线服务器，无需任何tgsou配置
@@ -19,6 +21,8 @@ http://www.fish2018.us.kg/z/FongMi.json
 ## tgsou服务器
 ```
 http://tgsou.fish2018.ip-ddns.com
+http://tgsou2.fish2018.ip-ddns.com
+http://tgsou3.fish2018.ip-ddns.com
 ```
 备用服务器
 ```
